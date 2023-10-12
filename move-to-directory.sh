@@ -19,7 +19,7 @@ for file in "${files_to_move[@]}"; do
 done
 =======
 
-# Create the directory if it doesn't exist
+# Create the directory if it doesn't exist before
 mkdir -p negpod_id-q1
 
 # Move the files to the directory
