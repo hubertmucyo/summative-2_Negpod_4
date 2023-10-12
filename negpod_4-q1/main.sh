@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # this script shows an application that helps students to record 
+
 while true; do
+
     echo "--------------------------------------"
     echo "Welcome to ALU BSE Registration System"
     echo "--------------------------------------"
