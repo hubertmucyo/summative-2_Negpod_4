@@ -2,4 +2,4 @@ d.iradukund@alustudent.com,21,2001
 d.niyonshuti@alustudent.com,19,2004
 gasambi.jh@alustudent.com,22,1999
 d.ubushakebwimana@alustudent.com,23,2000
-c.dau@alustudent.com,20,456
+c.dau@alustudent.com,19,2004
