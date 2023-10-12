@@ -3,3 +3,4 @@ g.uwase@alustudent.com,20,2003
 j.gasambi@alustudent.com,22,1999
 hmucyo@gmail.com,20,MH1000
 h.mucyo@alustudent.com,20,2003
+u.keza@alustudent.com,19,230
