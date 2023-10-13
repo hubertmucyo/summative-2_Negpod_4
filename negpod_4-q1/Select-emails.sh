@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# this script sorts student email 
+#this script takes student emails only 
 cut -d',' -f1 students-list_0923.txt > student-emails.txt
+

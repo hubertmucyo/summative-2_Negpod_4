@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 d.niyonshut@alustudent.com,19,2004
 g.uwase@alustudent.com,20,2003
 j.gasambi@alustudent.com,22,1999
 n.teta2@alustudent.com,19,123
 5,5,5
+=======
+d.iradukund@alustudent.com,21,2001
+d.niyonshuti@alustudent.com,19,2004
+gasambi.jh@alustudent.com,22,1999
+d.ubushakebwimana@alustudent.com,23,2000
+c.dau@alustudent.com,19,2004
+>>>>>>> 6e246fb14319870cab5975f0aa7e594a6c9c4cb4
