@@ -1,0 +1,10 @@
+d.niyonshut@alustudent.com,19,2004
+g.uwase@alustudent.com,20,2003
+j.gasambi@alustudent.com,22,1999
+<<<<<<< HEAD:Students-list_0923.txt
+t.nadia@alustudent.com,20,2007
+=======
+hmucyo@gmail.com,20,MH1000
+h.mucyo@alustudent.com,20,2003
+u.keza@alustudent.com,19,230
+>>>>>>> 090523acb97f2b478ba335f984d8f581d4d409fa:negpod_4-q1/Students-list_0923.txt
