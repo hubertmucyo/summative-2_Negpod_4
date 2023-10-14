@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 # Replace 'Negpod_ID' with the actual Negpod ID
 negpod_id="Negpod_4"
 
