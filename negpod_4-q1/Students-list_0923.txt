@@ -7,5 +7,3 @@ t.nadia@alustudent.com,20,2007
 hmucyo@gmail.com,20,MH1000
 h.mucyo@alustudent.com,20,2003
 >>>>>>> 090523acb97f2b478ba335f984d8f581d4d409fa:negpod_4-q1/Students-list_0923.txt
-a.emelance@alustudent.com,30,14
-d.nzuba@gmail.com,34,14
