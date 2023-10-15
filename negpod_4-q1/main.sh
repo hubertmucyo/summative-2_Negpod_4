@@ -18,25 +18,25 @@ while true; do
             read -p "Enter student email: " email
             read -p "Enter student age: " age
             read -p "Enter student ID: " id
-            echo "$email,$age,$id" >> students-list_0923.txt
+            echo "$email,$age,$id" >> Students-list_0923.txt
             echo "Student record added successfully!"
             ;;
         2)
             echo "-------------------------------------"
             echo "List of Students"
             echo "-------------------------------------"
-            cat students-list_0923.txt
+            cat Students-list_0923.txt
             ;;
         3)
             read -p "Enter student ID to delete: " delete_id
-            sed -i "/^.*,$delete_id$/d" students-list_0923.txt
+            sed -i "/^.*,$delete_id$/d" Students-list_0923.txt
             echo "Student record with ID $delete_id deleted successfully!"
             ;;
         4)
             read -p "Enter student ID to update: " update_id
             read -p "Enter updated email: " updated_email
             read -p "Enter updated age: " updated_age
-            sed -i "s/^.*,$update_id$/$updated_email,$updated_age,$update_id/" students-list_0923.txt
+            sed -i "s/^.*,$update_id$/$updated_email,$updated_age,$update_id/" Students-list_0923.txt
             echo "Student record with ID $update_id updated successfully!"
             ;;
         5)
