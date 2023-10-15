@@ -1,3 +1,4 @@
 P.nayiturik@alustudent.com,20,1111
 e.gihozo@alustudent.com,21,2222
 d.ufitinema@alustudent.com,22,12111
+l.ikirezi@alustudent.com,24,12
