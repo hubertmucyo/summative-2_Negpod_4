@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-# Replace 'Negpod_ID' with the actual Negpod ID
-negpod_id="Negpod_4"
 
 # Details about the remote server
 remote_host="2f05c1f8800b.3be8ebfc.alu-cod.online"
