@@ -7,7 +7,7 @@ remote_password="d4a1d225d0abda9549d8"
 remote_location="/summative/0923-2023S"
 
 # Create a backup directory with timestamp
-backup_dir="backup_$(date +"%Y%m%d%H%M%S")"
+backup_dir="negpod_4-q1"
 
 # Copy the directory to the remote server
 scp -r $backup_dir $remote_username@$remote_host:$remote_location
